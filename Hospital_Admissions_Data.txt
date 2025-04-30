@@ -1,0 +1,2 @@
+Analyze patient admissions, discharges, and treatment durations to optimize hospital resource usage and reduce patient wait times.
+
